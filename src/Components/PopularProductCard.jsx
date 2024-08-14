@@ -13,7 +13,7 @@ height={24}/>
 <p className='font-monsterrat text-xl leading-normal text-slate-gray'>(4.5)</p>
       </div>
       <h3 className='mt-2 text-2xl leading-normal font-semibold font-palanquin'>{name}</h3>
-      <p className='mt-2 font-semibold font-monsterrat text-coral-red text-21x leading-normal'>
+      <p className='mt-2 font-semibold font-monsterrat text-coral-red text-21x leading-normal mb-2'>
         {price}
 
       </p>

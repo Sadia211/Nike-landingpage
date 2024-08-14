@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-spring/web": "^9.7.4",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-animate-on-scroll": "^2.1.9",
+    "react-dom": "^18.3.1",
+    "react-scroll-animation": "^1.0.3",
+    "react-scroll-motion": "^0.3.3",
+    "styled-components": "^6.1.12",
+    "swiper": "^11.1.9"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",

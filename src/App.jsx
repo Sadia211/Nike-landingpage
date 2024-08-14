@@ -9,6 +9,7 @@ import{
   PopularProducts,
   SuperQuality
 } from './Sections'
+
 import Nav from './Components/Nav';
 const App =()=>(
   <main className="relative">
